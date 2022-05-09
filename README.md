@@ -7,7 +7,7 @@
 
 This work is licensed under a Creative Commons license CC BY 4.0
 
-3D-DCNN model, experimental and segmented data can be dowload (.zip file):
+3D-DCNN model, experimental and segmented data presented in this work can be dowload (.zip file):
 **[3D-DCNN](https://mycore.core-cloud.net/index.php/s/Ykz9uL5o0rv9bSz)**
 
 ## Model and implementation
