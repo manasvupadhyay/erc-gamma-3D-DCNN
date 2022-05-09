@@ -61,9 +61,9 @@ The model is organized in four different python codes:
 
 > Model architecture and fitted weights are loaded as well as the experimal data to segment.
 > It returns a file with the probability of each voxel belonging to a class (either precipitate or matrix).
-> The data used to test the model in the manuscript are copied into the test-file folder. To test the model, the data inside this folder can be used.
+> The data used to test the model in the manuscript are copied into the *test-file* folder. To test the model, the data inside this folder can be used.
 > In order to do so, use the following command: python3 predictData.py
-> Model and fitted weights are available in the modelAndWeights/final-uNet_model.h5 and modelAndWeights/final-trained-weights.h5 files, respectively.
+> Model and fitted weights are available in the *modelAndWeights/final-uNet_model.h5* and *modelAndWeights/final-trained-weights.h5* files, respectively.
 
 
 
