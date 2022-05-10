@@ -1,4 +1,4 @@
-# 3D deep convolutional neural network for precipitate and porosity segmentation (3D-DCNN U-net model)
+# 3D deep convolutional neural network for precipitate and porosity segmentation tomograms (3D-DCNN U-net model)
 
 
 *3D deep convolutional neural network segmentation model for precipitate and porosity identification in synchrotron X-ray tomograms*
