@@ -1,4 +1,4 @@
-# 3D deep convolutional neural network for precipitate and porosity segmentation tomograms (3D-DCNN U-net model)
+# 3D deep convolutional neural network for precipitates and porosities segmentation tomograms (3D-DCNN U-net model)
 
 
 *3D deep convolutional neural network segmentation model for precipitates and porosities identification in synchrotron X-ray tomograms*
@@ -69,4 +69,4 @@ The model is organized in four different python codes:
 
 For further information, please refer to the manuscript:
 
-*3D deep convolutional neural network segmentation model for precipitate and porosity identification in synchrotron X-ray tomograms*
+*3D deep convolutional neural network segmentation model for precipitates and porosities identification in synchrotron X-ray tomograms*
